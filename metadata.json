@@ -1,0 +1,6 @@
+{
+  "name": "HR Mind",
+  "description": "Every workday, perfectly aligned. A Human Resource Management System with an integrated AI Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
